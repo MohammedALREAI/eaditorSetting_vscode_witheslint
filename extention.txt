@@ -1,0 +1,39 @@
+Apache Conf
+Auto Close Tag
+Auto Rename Tag
+Azure Account
+Better Comments
+Bracket Pair Colorizer
+Cobalt2 Theme Official
+Code Spell Checker
+Color Highlight
+Custom CSS and JS Loader
+Debugger for Chrome
+Docker
+DotENV
+ES7 React/Redux/GraphQL/React-Native snippets
+ESLint
+File Utils
+Git History
+GitLens — Git supercharged
+GraphQL for VSCode
+GraphQL
+Import Cost
+Jest
+JS Refactor
+language-stylus
+npm Intellisense
+open in browser
+Path Intellisense
+Polacode
+Rainbow Brackets
+Rainbow CSV
+Scope Info
+SCSS IntelliSense
+snapshot-tools
+Sublime Text Keymap and Settings Importer
+Text Pastry
+Toggle Quotes
+Version Lens
+VS Live Share
+vscode-styled-components
